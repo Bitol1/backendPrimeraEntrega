@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Remera negra",
+    "description": "Remera básica color negro",
+    "code": "RN001",
+    "price": 1800,
+    "status": true,
+    "stock": 40,
+    "category": "ropa",
+    "thumbnails": [
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  }
+]
